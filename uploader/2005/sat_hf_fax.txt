@@ -1,0 +1,41 @@
+
+                     SATELLITE REBROADCAST ON HF
+
+ TIME STATION         FREQ_1  FREQ_2  FREQ_3  FREQ_4  FREQ_5  FREQ_6   SAT_NAME
+---------------------------------------------------------------------
+ 0030 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 0045 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 0100 CF Halifax      122.5   4271    6496.4  10536   13510          
++0110 Tokyo Meteo JMH 3622.5  7305    9970    13597   18220   23522.9  MTSAT-1R 
+ 0120 Tai-pei Meteo   4616    5250    8140    13900                  
+ 0248 USCG San Franci 4346    8682    12730   17151   22527          
+ 0259 USCG San Franci 4346    8682    12730   17151   22527          
+ 0301 CF Halifax      122.5   4271    6496.4  10536   13510          
+ 0351 USCG Boston NMF 6340.5  12750                                  
+ 0512 Delhi Meteo     4993.5  7403    14840   18225                  
+ 0630 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 0645 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 0700 Seoul Meteo     5385    5857.5  7433.5  9165    13570          
++0710 Tokyo Meteo JMH 3622.5  7305    9970    13597   18220   23522.9  MTSAT-1R
+ 0720 Tai-pei Meteo   4616    5250    8140    13900                  
+ 0908 USCG San Franci 4346    8682    12730   17151   22527          
+ 0944 USCG San Franci 4346    8682    12730   17151   22527          
+ 0951 USCG Boston NMF 6340.5  12750                                  
+ 1001 CF Halifax      122.5   4271    6496.4  10536   13510          
+ 1230 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 1245 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 1310 CF Halifax      122.5   4271    6496.4  10536   13510          
++1310 Tokyo Meteo JMH 3622.5  7305    9970    13597   18220   23522.9  MTSAT-1R
+ 1438 USCG San Franci 4346    8682    12730   17151   22527          
+ 1449 USCG San Franci 4346    8682    12730   17151   22527          
+ 1503 USCG Boston NMF 6340.5  12750                                  
+ 1830 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 1845 Honolulu Meteo  9982.5  11090   16135   23331.5                
+ 1900 Seoul Meteo     5385    5857.5  7433.5  9165    13570          
++1910 Tokyo Meteo JMH 3622.5  7305    9970    13597   18220   23522.9  MTSAT-1R
+ 1920 Tai-pei Meteo   4616    5250    8140    13900                  
+ 2108 USCG San Franci 4346    8682    12730   17151.2 22527          
+ 2151 USCG Boston NMF 6340.5  12750
+
+
++- good acceptance

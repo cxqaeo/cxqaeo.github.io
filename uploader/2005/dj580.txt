@@ -1,0 +1,71 @@
+
+From        : KG7JE 
+To          : MODS  @USBBS   
+Type/status : B$
+Date/time   : 09-May 00:03
+Bid         : 19626_N7HFZ
+Message #   : 85797 
+Title       : ALINCO AIRCRAFT MODS
+Path: !WA2JVM!W2NRE!KA2MSL!N2LKA!WA2SNL!N7IJI!KA3FMO!WB6VAC!N7HFZ!
+While the DJ-560 may not have the aircraft AM receiver in it, I can
+assure you that the DJ-580 has an excellent AM aircraft receiver.  Just
+follow the mod as outlined in the manual (cut the blue cable at the
+bottom after removing the battery plate).  I understand that the red
+cable allows extended transmit for the MARS and CAP folks.
+<CR> Continue <A>bort <C>ontinue no paging <N>ext Message..>
+--Steve, KG7JE @N7HFZ.WA
+
+              ========== End of message #85797  ==========
+   From : N6ZXY @ W6QFK.#SOCA.CA.USA.NA
+     To : MODS @ ALLUS
+   Date : 920212/0600
+  Msgid : BF 4926@W6QFK, 5905@W6VIO $4926_W6QFK
+Subject : Mod for ALINCO DJ-580T D/B HH
+ 
+Hello to all, name here is Tom. This letter is to let you know how
+to Modify your ALINCO DJ-580T Dual band Handheld. This seems to
+be a very good radio in form and function, and does not contain
+any of the previous glitches that I have found on earlier models
+of Alinco radios. This Mod comes straight from Alinco in Torrance
+Ca.
+   A L I N C O  D J - 5 8 0 T  A I R  &  O U T  O F  B A N D
+================================================================
+This is a very simple mod it will give you aircraft band RX,
+from 108-130 Mhz AM. On the first part and RX/TX from 130Mhz-
+170Mhz on VHF and 415 - 470 Mhz on UHF (Approximate).
+
+1. Remove the  battery from the radio.
+2. Look at the bottom of the radio where the battery mounts.
+3. Locate four screws that hold the battery mounting plate to the
+   bottom of the radio. Remove these four screws.
+   (Be careful, the screws are SMALL!)
+4. The battery plate is still attached by two wires but there should  
+   be enough slack in them to get around the plate with a pair of 
+   cutters.
+5. With the radio's keypad and display facing up, locate a loop of
+   red wire on the right side of the radio interior.
+6. Cut this wire for AM Aircraft band RX.
+7. On the left side of the interior, locate a loop of blue wire.
+8. Cut this wire for TX/RX  as described above.
+9. Insulate the exposed ends of these wires so they do not short.
+10.Re-attach the battery mounting plate and replace the battery.
+11.With the radio off, hold down the function key and turn the 
+   radio on.
+
+Thats all there is to it! You can now program all frequencies
+Within the above ranges. The AIR band RX is pretty hot
+Attempt this modification at your own risk.  It may void any
+warranty your equipment may carry. 
+73 de Tom/N6ZXY@W6QFK.#SOCA.CA.USA.NA
+DJ580T
+
+Here is another mod for the Alinco DJ-580T...
+Depending on the age of the rig this is a mod to open the rec and transmitter.
+If you have a newer rig, take the battary off and the 4 screws that hold on the
+battary and find the RED wire, cit it and tape the ends to open the recever
+to be able to transmit on all bands you rec with the acception on 800 and 900
+cut the Blue wire, I have dont this and have had no problemsat all...
+The RED and BLUE wire are looped so you cant mis them...
+Injoy the new coverage...
+Brought to you Via WB1ERG @ WB1ERG
+

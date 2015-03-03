@@ -1,0 +1,328 @@
+;Last Updated 2004/10/16 - The Monitoring Post
+;                        - http://www.accesscomm.ca/users/monitoringpost/
+;
+; Some satellite frequencies listed may not be operating anymore or may be
+; in a standby mode. Also some are left for historical reasons. Corrections
+; and/or additions can be sent to monitoringpost@accesscomm.ca. Thank-you.
+;
+;Satellite Descriptors beginning with:
+;
+; % = CatNo conflicts (USSPACECOM vs. AMSAT).
+; * = beginning 2004/05/01 indicates satellite selected for monitoring
+;
+;Cat# Downlink ERP   Launch Date (UTC)      Comments        Satellite Descriptor
+;---- -------- ----- ---------------------- --------------- --------------------
+28444 166.0000       LD=2004/10/14@06:06:00                 ;SOYUZ TMA-05
+28420 000.0000       LD=2004/09/23@15:07:00                 ;COSMOS 2409
+28419 000.0000       LD=2004/09/23@16:07:00                 ;COSMOS 2408
+28375 435.3000       LD=2004/06/29@00:00:00                 ;AO-51/ECHO
+28399 166.0000       LD=2004/08/11@05:03:00                 ;PROGRESS M-50
+28350 000.0000       LD=2004/05/28@06:00:00                 ;COSMOS 2407
+28261 166.0000       LD=2004/05/25@12:34:00                 ;PROGRESS M-49
+28254 000.0000       LD=2004/05/20@17:47:00                 ;ROCSAT-2
+28238 000.0000       LD=2004/05/04@12:42:00                 ;DIRECTV-7S
+28228 121.7500       LD=2004/04/19@03:19:00                 ;SOYUZ TMA-04
+28194 000.0000       LD=2004/03/27@03:30:00                 ;COSMOS 2406
+28190 000.0000       LD=2004/03/20@17:53:00 aka GPS 2R-11   ;Navstar 54 (USA 177)
+28158 000.0000       LD=2004/02/14@18:50:00                 ;DSP 22 <7>
+28142 166.0000       LD=2004/01/29@11:58:00                 ;PROGRESS-M1 11
+27781 166.0000       LD=2003/04/26@03:53:00                 ;SOYUZ TMA-02
+27681 166.0000       LD=2003/02/02@12:59:00 922.754MHz      ;Progress M-47
+27647 000.0000       LD=2003/01/16@15:39:00                 ;STS-107 Columbia
+27643 000.0000       LD=2003/01/13@00:45:00                 ;CHIPSAT
+27642 000.0000       LD=2003/01/13@00:45:00                 ;ICESAT
+27619 000.0000       LD=2002/12/25@07:37:00                 ;COSMOS 2396
+27618 000.0000       LD=2002/12/25@07:37:00                 ;COSMOS 2395
+27617 000.0000       LD=2002/12/25@07:37:00                 ;COSMOS 2394
+27613 000.0000       LD=2002/12/24@12:20:00                 ;COSMOS 2393
+27607 436.7950       LD=2002/12/20@00:00:00 Operational     ;SAUDISAT-1C/SO-50
+27556 000.0000       LD=2002/11/24@00:49:47                 ;STS-113 Endeavour
+27552 121.7500       LD=2002/10/30@03:11:00                 ;SOYUZ TMA-01
+27534 150.0000       LD=2002/09/26@00:00:00                 ;NADEZHDA 07 [Civil]<4>
+27531 166.0000       LD=2002/09/25@16:58:00                 ;Progress M1-9
+27516 000.0000       LD=2002/09/10@08:20:00                 ;DRTS <6>
+27509 000.0000       LD=2002/08/28@22:45:00                 ;MSG-1
+27454 166.0000       LD=2002/06/26@05:36:00                 ;Progress M-46
+27453 137.6200       LD=2002/06/24@18:23:04 APT ON          ;NOAA M/17
+27451 000.0000       LD=2002/06/20@09:33:00 Plane A         ;Iridium 098
+27450 000.0000       LD=2002/06/20@09:33:00 Plane A         ;Iridium 097
+27431 000.0000       LD=2002/05/15@00:00:00                 ;HAIYANG-1
+27430 180.0075       LD=2002/05/15@00:00:00 CW Carrier      ;FENGYUN-1D
+27424 000.0000       LD=2002/05/04@09:54:00                 ;AQUA EOS
+27422 145.8400       LD=2002/05/04@01:31:00 Vox/Data 435.27M;IDEFIX
+27421 000.0000       LD=2002/05/04@01:31:00                 ;SPOT5
+27416 121.7500       LD=2002/04/22@06:26:00                 ;SOYUZ TM-34
+27409 000.0000       LD=2002/04/01@22:07:00                 ;COSMOS 2388
+27395 166.0000       LD=2002/03/21@20:13:00                 ;Progress M1-08
+27394 000.0000       LD=2002/03/19@22:28:00                 ;KOLIBRI
+27392 000.0000       LD=2002/03/17@09:21:00                 ;GRACE-2
+27391 000.0000       LD=2002/03/17@09:21:00                 ;GRACE-1
+27389 000.0000       LD=2002/03/08@22:59:00                 ;TDRS 09
+27386 000.0000       LD=2002/03/01@01:08:00                 ;Envisat-1
+27382 000.0000       LD=2002/02/25@17:62:00                 ;Cosmos 2387
+27380 000.0000       LD=2002/02/23@06:59:00                 ;Intelsat 904
+27378 000.0000       LD=2002/02/21@12:43:00                 ;EchoStar 07
+27376 000.0000       LD=2002/02/11@17:44:00                 ;IRIDIUM-096
+27375 000.0000       LD=2002/02/11@17:44:00                 ;IRIDIUM-095
+27374 000.0000       LD=2002/02/11@17:44:00                 ;IRIDIUM-094
+27373 000.0000       LD=2002/02/11@17:44:00                 ;IRIDIUM-091
+27372 000.0000       LD=2002/02/11@17:44:00                 ;IRIDIUM-090
+27060 000.0000       LD=2001/12/28@03:24:00                 ;Cosmos 2386 [Civil]
+27059 000.0000       LD=2001/12/28@03:24:00                 ;Cosmos 2385 [Civil]
+27058 000.0000       LD=2001/12/28@03:24:00                 ;Cosmos 2384 [Civil]
+27057 000.0000       LD=2001/12/28@03:24:00                 ;Gonets D1-09 [Mil]
+27056 000.0000       LD=2001/12/28@03:24:00                 ;Gonets D1-08 [Mil]
+27055 000.0000       LD=2001/12/28@03:24:00                 ;Gonets D1-07 [Mil]
+27005 000.0000       LD=2001/12/10@17:19:00                 ;Reflector
+27004 144.1000       LD=2001/12/10@17:19:00 FM CW +436.075  ;Maroc-TubSat
+27003 000.0000       LD=2001/12/10@17:19:00                 ;BADR-B
+27002 000.0000       LD=2001/12/10@17:19:00                 ;Kompass
+27001 000.0000       LD=2001/12/10@17:19:00                 ;Meteor 3M-N1
+26970 000.0000       LD=2001/10/25@11:34:00                 ;Cosmos 2380
+26955 121.7500       LD=2001/10/21@08:59:00                 ;Soyuz TM-33
+26932 437.0950       LD=2001/09/30@02:40:02 Digipeater/APRS ;Sapphire/NO-45
+26931 144.3900       LD=2001/09/30@02:40:02 APRS (Region 2) ;PCSAT/NAV-OSCAR-44 
+26930 150.0125       LD=2001/09/30@02:40:02 CW Doppler BCN  ;PicoSat 9
+26929 000.0000       LD=2001/09/30@02:40:02 Orbit Decayed   ;StarShine 3/NAV-OSCAR-45
+26908 166.0000       LD=2001/09/14@23:35:00                 ;Progress DC-1/PIRS
+26890 166.0000       LD=2001/08/21@09:24:00                 ;Progress M-45
+26889 400.9650       LD=2001/20/10@18:30:00                 ;SimpleSat
+26873 1701.000       LD=2001/08/31@08:00:00                 ;Coronas-F(136.35/137.85 B/U)
+26871 000.0000       LD=2001/07/23@07:23:00                 ;GOES 12
+26818 149.9400       LD=2001/06/08@15:08:42 Plane 6 +399.84 ;KOSMOS-2378/PARUS [Mil]<4>
+26773 166.1250       LD=2001/05/20@22:32:40                 ;Progress M1-6
+26749 121.7500       LD=2001/04/28@07:37:20                 ;Soyuz TM-32
+26609 2401.323       LD=2000/11/16@01:07:07 Non-operational ;AO-40/AMSAT-P3D
+26551 137.9300                                              ;Megsat??
+26549 436.7750       LD=2000/09/26@10:05:00 Status:Unknown  ;SO-42 SAUDISAT-1B
+26548 437.3250       LD=2000/09/26@10:05:00 Operational     ;Tiungsat/MO-46
+26545 436.7750       LD=2000/09/26@10:05:00 Operational     ;SO-41
+26536 137.7700       LD=2000/09/21@10:22:00 VHF Beacon (CW) ;NOAA-16/NOAA-L[APT Failed]
+26481 179.9510       LD=2000/09/01@03:25:00                 ;Zi-Yang 2
+26388 000.0000       LD=2000/06/30@12:56:00                 ;TDRS-8/TDRS-H
+26384 150.0000       LD=2000/06/28@10:37:42                 ;Nedezhda 6
+26102 401.5650       LD=2000/03/12@09:29:00                 ;MTI 1
+26065 436.5000       LD=2000/01/27@03:03:06                 ;AO-37/ASUSAT
+26064 400.4700       LD=2000/01/27@03:03:06                 ;FalconSat
+26063 437.1000       LD=2000/01/27@03:03:06                 ;OO-38/OPAL
+26061 437.0700       LD=2000/01/27@03:03:06                 ;WO-29/JAWSAT
+25991 400.3275       LD=1999/12/12@17:38:01                 ;DMSP 5D-3 F-15
+25986 137.2000       LD=1999/12/04@18:53:00 Plane F         ;ORBCOMM FM 34
+25985 137.6625       LD=1999/12/04@18:53:00 Plane F - On    ;ORBCOMM FM 35
+25984 137.2000       LD=1999/12/04@18:53:00 Plane F         ;ORBCOMM FM 36
+25983 000.0000       LD=1999/12/04@18:53:00 Plane F         ;ORBCOMM FM 33
+25982 137.2000       LD=1999/12/04@18:53:00 Plane D         ;ORBCOMM FM 32
+25981 137.6625       LD=1999/12/04@18:53:00 Plane D         ;ORBCOMM FM 31
+25980 137.2000       LD=1999/12/04@18:53:00 Plane D         ;ORBCOMM FM 30
+25940 180.0150       LD=1999/10/14@03:15:00                 ;Zi-Yang 1
+25892 399.8400       LD=1999/08/26@12:02:15 CW - Doppler Tracking Beacon. Also xmits at 149.940 MHz;KOSMOS-2366/PARUS [Mil]<4>
+25860 137.4000       LD=1999/07/17@06:38:00                 ;OKEAN-O
+25757 401.3750       LD=1999/05/26@05:22:00                 ;KitSat 3
+25736 401.5000       LD=1999/05/18@05:09:36                 ;MublCom
+25735 150.0000       LD=1999/05/18@05:09:36                 ;Terriers
+25730 180.0080       LD=1999/05/10@01:33:00                 ;Feng Yun 1C
+25722 137.9350       LD=1999/04/28@20:30:00                 ;MegSat-0
+25693 437.4000       LD=1999/04/21@04:59:12 Non-op N.America;UO-36/UOSAT-12
+25636 145.8250       LD=1999/02/23@10:29:55                 ;SO-35/SUNSAT
+25590 400.0800       LD=1998/12/24@20:02:19 CW - Doppler Tracking Beacon. Also xmits at 150.030 MHz;KOSMOS-2361/PARUS [Mil]<4>
+25567 150.0000       LD=1998/12/10@11:57:07 Plane 14        ;Nedezhda 5 [Civil]<4>  
+25544 145.8000       LD=1998/11/20@06:20:00 FM              ;ISS/ZARYA
+25520 436.5000       LD=1998/10/29@19:19:34                 ;PO-34/PANSAT
+25509 437.9100       LD=1998/10/24@12:08:00                 ;SO-33/SEDSAT
+25482 137.6625       LD=1998/09/23@05:06:00 Plane D         ;ORBCOMM FM 28
+25481 137.2500       LD=1998/09/23@05:06:00 Plane D         ;ORBCOMM FM 27
+25480 137.6625       LD=1998/09/23@05:06:00 Plane D         ;ORBCOMM FM 26
+25479 000.0000       LD=1998/09/23@05:06:00 Plane D         ;ORBCOMM FM 25
+25478 000.0000       LD=1998/09/23@05:06:00 Plane C         ;ORBCOMM FM 24
+25477 137.6625       LD=1998/09/23@05:06:00 Plane C         ;ORBCOMM FM 23
+25476 137.2500       LD=1998/09/23@05:06:00 Plane C         ;ORBCOMM FM 22
+25475 137.2500       LD=1998/09/23@05:06:00 Plane C         ;ORBCOMM FM 21
+25420 137.7375       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 13
+25419 137.8000       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 18
+25418 137.7375       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 15
+25417 137.8000       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 16
+25416 137.7375       LD=1998/08/02@16:24:00 Plane B         ;ORBCOMM FM 20
+25415 137.7375       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 19
+25414 137.7375       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 14
+25413 137.7375       LD=1998/08/02@16:24:00 Plane B - ON    ;ORBCOMM FM 17
+25397 435.2250       LD=1998/07/10@06:30:00                 ;GO-32/TECHSAT 1B
+25396 436.9250       LD=1998/07/10@06:30:00                 ;TO-31/TM-SAT
+25394 137.8500       LD=1998/07/10@06:30:00 APT Non-Op      ;RESURS O1-N4
+25390 143.0750       LD=1998/07/07@03:15:00                 ;TubSat N1
+25338 137.5000       LD=1998/05/13@15:52:04 APT ON DLY SYNCH;NOAA 15/NOAA K
+25159 137.6780       LD=1998/02/10@13:20:00 Plane G - ON    ;ORBCOMM FM 4
+25158 137.6780       LD=1998/02/10@13:20:00 Plane G - ON    ;ORBCOMM FM 3
+25157 150.0150       LD=1998/02/10@13:20:00                 ;GeoSat F0/GFO
+25123 401.5000       LD=1997/12/24@13:32:52                 ;Earlybird
+25119 137.6620       LD=1997/12/23@19:11:42 Plane A - OFF   ;ORBCOMM FM 7
+25118 137.2250       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 6
+25117 137.2000       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 5
+25116 137.7170       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 9
+25115 137.6625       LD=1997/12/23@19:11:42 Plane A         ;ORBCOMM FM 12
+25114 137.6620       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 11
+25113 137.7170       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 10
+25112 137.7170       LD=1997/12/23@19:11:42 Plane A - ON    ;ORBCOMM FM 8
+24954 400.5500       LD=1997/09/23@16:44:51                 ;FaiSat-2V
+24953 400.0800       LD=1997/09/23@16:44:51 CW - Doppler Tracking Beacon. Also xmits at 150.030 MHz;KOSMOS-2346/PARUS [Mil]<4>
+24920 401.5650       LD=1997/08/29@15:02:22                 ;Forte
+24786 468.8250       LD=1997/04/25@05:49:00                 ;GOES-10/GOES-K
+24772 399.7600       LD=1997/04/17@13:03:21 CW - Doppler Tracking Beacon. Also xmits at 149.910 MHz;KOSMOS-2341/PARUS [Mil]<4>
+24744 435.5480       LD=1997/04/04@02:00:02                 ;RS-16/ZEYA
+24729 260.2500       LD=1997/02/14@03:47:22                 ;GoNets D1-5
+24677 399.9200       LD=1996/12/20@06:43:58 CW - Doppler Tracking Beacon. Also xmits at 149.970 MHz;KOSMOS-2336/PARUS [Mil]<4>
+24645 137.9600       LD=1996/11/04@17:08:56                 ;SAC-B/Hete
+24305 437.2060       LD=1996/09/05@12:47:39                 ;MO-30/UNAMSAT-B
+24304 150.0300       LD=1996/09/05@12:47:39                 ;KOSMOS-2334/PARUS
+24293 137.9500       LD=1996/08/29@05:22:00                 ;Mu Sat
+24292 136.0700       LD=1996/08/29@05:22:00                 ;Magion 5
+24291 137.9500       LD=1996/08/29@05:22:00                 ;MicroSat
+24278 435.9100       LD=1996/08/17@01:53:00 Digi-Talker     ;FO-29/JAS-2
+24277 467.7000       LD=1996/08/17@01:53:00                 ;ADEOS
+23853 149.9400       LD=1996/04/24@13:00:01                 ;KOSMOS-2332/YUG
+23789 264.6000       LD=1996/02/19@00:58:25 AM Tones        ;Gonets D1-3
+23788 264.9000       LD=1996/02/19@00:58:25 AM              ;Gonets D1-2
+23787 264.7500       LD=1996/02/19@00:58:25 AM              ;Gonets D1-1
+23779 000.0000       LD=1996/01/31@13:15:01                 ;Palapa C1
+23773 149.9700       LD=1996/01/16@15:33:45                 ;KOSMOS-2327/PARUS
+23657 137.4000       LD=1995/08/31@06:49:59                 ;SICH-1/OKEAN-01 N8
+23646 136.0700       LD=1995/08/02@23:59:11                 ;Magion 4
+23613 000.0000       LD=1995/07/13@13:41:55                 ;TDRS-7/TDRS-G
+23607 137.9550       LD=1995/07/07@16:23:34                 ;UPM/LBsat 1
+23606 400.2000       LD=1995/07/07@16:23:34                 ;Cerise
+23603 400.0000       LD=1995/07/05@03:09:03 CW - Doppler Tracking Beacon. Also xmits at 150.000 MHz;KOSMOS-2315/NADEZHDA-M [Civilian]<4>
+23581 000.0000       LD=1995/05/23@05:52:00                 ;GOES-9GOES-J
+23579 634.0000       LD=1995/05/20@03:30:22                 ;Spektr
+23547 139.9500       LD=1995/04/03@13:48:00                 ;Microlab-1/ORBVIEW-1
+23546 137.4600       LD=1995/04/03@13:48:00 Plane F - ON    ;ORBCOMM FM 2
+23545 137.4600       LD=1995/04/03@13:48:00 Plane F - OFF   ;ORBCOMM FM 1
+23526 150.0300       LD=1995/03/22@04:09:03                 ;KOSMOS-2310/PARUS
+23522 1691.000 +55.0 LD=1995/04/18@08:01:00                 ;GMS 5/HAWAWARI-5
+23465 400.6000       LD=1995/01/24@03:54:22                 ;Faisat
+23464 400.5500       LD=1995/01/24@03:54:22                 ;Astrid
+23463 150.0000       LD=1995/01/24@03:54:22 Plane 13        ;Tsikada [Civilian]<4>
+23455 137.6200       LD=1994/12/30@10:02:00 APT OFF         ;NOAA-14
+23439 29.35200       LD=1994/12/26@03:01:16 BEACON          ;RS-15/RADIO-ROSTO
+23317 137.4000       LD=1994/10/11@14:30:00                 ;Okean-01-N7
+23317 400.3260       LD=1994/10/11@14:30:00                 ;LLMS
+23179 150.0000       LD=1994/07/14@05:13:30 AM - SB@3,5,7kHz;Nadezhda-4/TSIKADA-KOSPAS
+23092 149.9400       LD=1994/04/26@02:14:15 Plane 6 +399.84 ;KOSMOS-2279/PARUS [Mil]<4>
+23000 000.0000       LD=2005/01/01@00:00:00                 ;MonitoringPost
+22969 137.8500       LD=1994/01/25@00:25:00                 ;Meteor 3-6
+22888 150.0300       LD=1993/11/02@12:10:09                 ;KOSMOS-2266/PARUS
+22829 435.2750       LD=1993/09/26@01:45:00                 ;PO-28
+22828 436.5000       LD=1993/09/26@01:45:00 Non-Operational ;KO-25/KITSAT
+22827 429.9800       LD=1993/09/26@01:45:00                 ;Healthsat
+22826 435.8220       LD=1993/09/26@01:45:00                 ;IO-26
+22825 436.7950       LD=1993/09/26@01:45:00 Weekend Passes  ;AMRAD-OSCAR-27
+22782 137.4000       LD=1993/08/31@04:40:00 APT OFF         ;METEOR 2-21
+22698 150.0150       LD=1993/06/25@23:30:00                 ;Radcal
+22654 145.9750       LD=1993/05/12@00:56:23                 ;Arasene
+22590 150.0300       LD=1993/04/01@18:57:26                 ;KOSMOS-2239
+22487 150.0300       LD=1993/02/09@02:56:56                 ;KOSMOS-2233
+22314 000.0000       LD=1993/01/13@13:59:30                 ;TDRS-6/TDRS-F
+22307 150.0000       LD=1993/01/12@11:10:17                 ;KOSMOS-2230
+22161 400.5500       LD=1992/10/06@06:20:05                 ;FREJA
+22077 435.1750       LD=1992/08/10@23:08:07 Non-operational ;KO-23/KITSAT-A
+21937 150.0300       LD=1992/04/15@07:17:43                 ;KOSMOS-2184
+21902 150.0000       LD=1992/03/09@22:35:59                 ;KOSMOS-2181
+21798 137.6200       LD=1991/11/28@13:23:00                 ;DMSP B5D2-6 F11
+21796 149.9700       LD=1991/11/27@03:30:26                 ;KOSMOS-2172
+21655 137.3000       LD=1991/08/15@00:00:00 APT OFF         ;METEOR 3-5
+21639 000.0000       LD=1991/08/02@15:02:00                 ;TDRS-5/TDRS-E
+21578 145.9550       LD=1991/07/17@01:46:31                 ;%SARA  
+21577 143.0750       LD=1991/07/17@01:46:31                 ;%Tubsat-A
+21575 435.1200       LD=1991/07/17@01:46:31 FM 9.6K bdd FSK ;%UO-22
+21397 137.4000       LD=1991/06/04@08:10:00                 ;Okean 3
+21263 137.5000       LD=1991/05/14@15:52:00 APT ON          ;NOAA 12
+21232 137.3000       LD=1991/04/24@01:37:00                 ;Meteor 3-4
+21152 150.0000       LD=1991/03/12@19:29:04 Plane 12 +1544.5;Nadezhda 3 [Civil]<4>
+21089 150.0000       LD=1991/02/05@02:36:00                 ;KOSMOS-2123
+21089 145.8600       LD=1991/02/05@02:36:00                 ;RS-12/13
+21087 145.9060       LD=1991/01/29@11:59:58                 ;RS-14/AO-21
+20826 137.8500       LD=1990/09/28@07:30:00                 ;Meteor 2-20
+20804 149.9700       LD=1990/09/14@05:59:00                 ;KOSMOS-2100
+20670 137.8500       LD=1990/06/27@22:30:00                 ;Meteor 2-19
+20508 150.0000       LD=1990/02/27@20:59:42                 ;Nadezhda
+20480 435.7950       LD=1990/02/07@01:33:00 Semi-operational;FO-20/FUJI-2/JAS-1B
+20478 136.1200       LD=1990/02/07@01:33:00                 ;Mos1-B
+20442 437.1250       LD=1990/01/22@01:35:27                 ;%LO-19
+20441 437.1040       LD=1990/01/22@01:35:27                 ;%WO-18
+20440 145.8250       LD=1990/01/22@01:35:27                 ;%DO-17
+20439 437.0260       LD=1990/01/22@01:35:27                 ;%AO-16
+20438 439.1250       LD=1990/01/22@01:35:27                 ;%UO-15
+20437 435.0700       LD=1990/01/22@01:35:27 145.975 Uplink  ;%UoSAT-OSCAR-14
+20305 137.8500       LD=1989/10/24@21:35:00                 ;Meteor 3-3
+20103 150.0000       LD=1989/07/04@15:21:36                 ;Nadezhda
+19883 000.0000       LD=1989/03/13@14:57:00                 ;TDRS-4/TDRS-D
+19851 137.3000       LD=1989/02/28@04:05:00                 ;Meteor 2-18
+19826 149.9400       LD=1989/02/22@03:28:00                 ;KOSMOS-2004
+19822 400.4500       LD=1989/02/21@23:30:00                 ;Akebono
+19548 000.0000       LD=1988/09/29@15:37:00                 ;TDRS-3/TDRS-C
+19531 137.6200       LD=1988/09/24@10:02:00 APT Failure     ;NOAA 11
+19467 137.7950       LD=1988/09/06@20:30:00                 ;Fengyun 1A
+19420 149.9850       LD=1988/08/25@06:59:00 NNS             ;Oscar 31
+19419 149.9850       LD=1988/08/25@06:59:00 NNS             ;Oscar 25
+19336 137.8500       LD=1988/07/26@05:01:00                 ;Meteor 3-2
+19215 137.0800       LD=1988/06/15@11:19:01                 ;Meteosat 3
+19210 204.5600       LD=1988/06/14@03:18:00                 ;KOSMOS-1953
+19071 149.9850       LD=1988/04/26@01:57:00 NNS             ;Oscar 32
+19070 149.9850       LD=1988/04/26@01:57:00 NNS             ;Oscar 23
+18820 137.3000       LD=1988/01/30@11:00:00                 ;Meteor 2-17
+18362 149.9850       LD=1987/09/16@19:22:00 NNS             ;Oscar 27
+18361 149.9850       LD=1987/09/16@19:22:00 NNS             ;Oscar 29
+18312 137.4000       LD=1987/08/18@02:26:00                 ;Meteor-2??
+18129 029.4030       LD=1987/06/23@07:37:00                 ;RS-10/11
+17561 136.3800       LD=1987/02/26@23:05:00                 ;GOES 7
+17070 149.9875       LD=1986/11/14@00:23:00                 ;Polar Bear/NNS O-17
+17066 150.0000       LD=1986/11/13@06:10:00                 ;KOSMOS-1791
+16969 137.5000       LD=1986/09/17@15:52:00 Inoperative     ;NOAA 10
+16609 137.6250       LD=                                    ;MIR
+15427 137.6200       LD=1984/12/12@10:42:00 Inoperative     ;NOAA 9 (Note 5)
+14781 145.8260       LD=1984/03/01@17:59:00 1200 baud PSK   ;*UO-11/UoSat OSCAR-11
+14780 136.8600       LD=1984/03/01@17:59:00                 ;Landsat 5
+14372 137.4000       LD=1983/09/28@07:59:00                 ;KOSMOS-1500
+14129 145.8100       LD=1983/06/16@11:59:03                 ;AO-10
+14050 136.3800       LD=1983/04/28@22:26:00                 ;GOES 6
+13969 000.0000       LD=1983/04/04@18:30:00                 ;TDRS-1/TDRS-A
+13367 137.8600       LD=1982/07/16@17:59:00                 ;Landsat 4
+13120 204.6400       LD=1982/03/31@16:27:00                 ;KOSMOS-1346
+12472 136.3800       LD=1981/05/22@22:29:00                 ;GOES 5
+11331 204.5600       LD=1979/04/14@05:26:00                 ;KOSMOS-1093
+10973 204.6400       LD=1978/06/28@17:35:00                 ;KOSMOS-1025
+10953 136.3800       LD=1978/06/16@10:49:00                 ;GOES 3
+10637 138.8600       LD=1978/01/26@17:36:00                 ;IUE
+10061 136.3800       LD=1977/06/16@10:51:00                 ;GOES 2
+07530 145.9720       LD=1974/11/15@17:11:00 Semi-Operational;AO-7/AMSAT OSCAR 7
+05580 137.5600       LD=1971/10/28@04:09:00                 ;Prospero
+04362 136.5000       LD=1970/04/08@08:17:56                 ;Nimus 4
+03891 136.8000       LD=1969/04/14@07:54:03                 ;Secor 13
+03669 137.9500       LD=1969/01/30@06:46:00                 ;ISIS 1
+03029 135.6250       LD=1967/11/05@23:37:00                 ;ATS 3
+01430 136.2350       LD=1965/07/02@04:07:00                 ;Tiros 10
+00965 136.6500       LD=1964/12/13@00:08:10                 ;Transit 5B5
+00424 000.0000       LD=1962/09/29@06:05:00                 ;Alouette 1
+
+;Note 1: The ORBCOMM satellites also transmit a beacon signal at 400.1 MHz (CW)
+;Note 2: NOAA-16 transmits a beacon signal at 137.77 MHz - APT OFF UFN.
+;Note 3: NOAA-15 undergoes a daily re-synch at 07:30 UT
+;Note 4: The Russian LEO navigation sats. xmit an un-modulated carrier in the
+;        400 MHz band and three audio tones at 3, 5 and 7 kHz, at a data rate
+;        of 50 bits per second. The 7 kHz signal is a timing marker transmitted
+;        once per second. Narrowband FM mode.
+;Note 5: NOAA 9 was permanently deactivated some years ago and is tumbling
+;        freely.  Unfortunately it now has a sporadic carrier on 137.500 (varies
+;        quickly according to orientation) and can cause interference to NOAA 12 &
+;        15 - Douglas Deans (Weekly APT, Wefax and Digital Status Report).
+;Note 6: DRTS [Data Relay Test Satellite] is to be used for the relay of
+;        communications to and from the International Space Station.
+;Note 7: This is part of the US missile warning network. TLEs will not be released.
+;
+;
+;SOURCES OF SATELLITE STATUS INFORMATION
+;
+;NOAA Operating Status - http://140.90.207.25:8080/EBB/ml/nic14.html
+;Russian LEO Navigational Satellites - http://www.hearsat.org/navsats.txt
+;Int'l Space Station - http://www.zarya.info/Tracking/Radio/ISS-Frequencies.htm
+;AMSAT - http://www.amsat.org
+;
+;END OF FILE

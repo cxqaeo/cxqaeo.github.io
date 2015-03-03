@@ -1,0 +1,245 @@
+
+/* Caption 1 (the one for displaying sub-headers like "topics, posted" etc) */
+
+td.caption1 {
+border: 1px #E7EBF7 solid;
+padding: 4px;
+height: 25px;
+font-size: x-small;
+}
+
+/* Caption 2 color and properties (this one displaying main menu,  New Topic text bg, New Message text bg) */
+
+td.caption2 {
+background-color: #F7F7F7;
+border: 1px #E7EBF7 solid;
+padding: 4px;
+height: 25px;
+font-size: x-small;
+}
+
+td.caption2c {
+background-color: #F7F7F7;
+border: 1px #E7EBF7 solid;
+padding: 2px;
+font-size: xx-small;
+}
+
+/* Caption 3 (used for Last Discussions, topic titles, Forums selection) */
+
+td.caption3 {
+background-color: #F7F7F7;
+padding: 4px;
+height: 20px;
+font-size: x-small;
+}
+
+/* Caption 4 (the one for displaying not separate headers like Forum, Topic, Poster etc., Buttons menu, left info cell) */
+
+td.caption4 {
+background-color: #F7F7F7;
+border: 1px #CFD6D1 solid;
+padding: 4px;
+height: 20px;
+font-size: x-small;
+}
+
+/* Caption 5 (used for user input like password/login and registration etc) */
+
+td.caption5 {
+border: 1px #CFD6D1 solid;
+padding: 4px;
+height: 20px;
+font-size: x-small;
+}
+
+/* Caption 6 (this one is for displaying title headers (language, search). The same color as caption2, but different font size) */
+
+td.caption6 {
+background-color: #F7F7F7;
+border: 1px #D6DFFF solid;
+padding: 4px;
+height: 20px;
+font-size: x-small;
+}
+
+/* Simple transparent table without borders and background color (menu navigation, general tables) */
+
+.tbTransparent{
+width: 97%;
+background: transparent;
+font-size: x-small;
+}
+
+/* Small analog text, used usually with SPAN */
+
+.txtSm{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;	
+font-size: x-small;
+}
+
+DIV{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;
+font-size: x-small;
+}
+
+/* Font for displaying username in each thread */
+
+DIV.username{
+text-decoration: none;
+font-size: x-small;
+}
+
+/* Class for select boxes */
+
+.selectTxt {
+	font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	background-color: #FFFFFF;
+}
+
+/* Topics/forums/threads content cell color #1 */
+
+.tbCel1{
+background: #D6DFE7;
+}
+
+/* Topics/forums/threads content cell color #2 */
+
+.tbCel2{
+background: #ADCBD6;
+}
+
+/* Class for displaying stuff like -> */
+
+.bulletHead{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #B2BFF2;
+font-weight: bold;
+}
+
+/* Heading titles */
+
+.header{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;
+font-weight: bold;
+font-size: x-small;
+}
+
+.formStyle{
+margin: 0px;
+}
+
+.inputButton {
+background: #FFFFFF;
+border-bottom: #C3C7C4 1px solid;
+border-left: #C3C7C4 1px solid;
+border-right: #C3C7C4 1px solid;
+border-top: #C3C7C4 1px solid;
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size: x-small;
+}
+
+/* Input areas - boxes, textareas... */
+
+.textForm {
+background: #FFFFFF;
+border-bottom: #C3C7C4 1px solid;
+border-left: #C3C7C4 1px solid;
+border-right: #C3C7C4 1px solid;
+border-top: #C3C7C4 1px solid;
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size: x-small;
+}
+
+/* Stats bar */
+
+.tbStBar{
+border: 0px;
+margin: 1px;
+padding: 1px;
+background: #F7F7F7;
+font-size: x-small;
+}
+
+/* Warning text */
+
+.warning{
+color: red;
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+font-size: x-small;
+font-weight: bold;
+}
+
+/* Supscript class */
+
+.navCell{
+font-family: Arial,Helvetica,Geneva,sans-serif,Arial,Verdana;
+font-size: xx-small;
+}
+
+
+/*GENERAL DEFINITIONS*/
+
+P{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;
+font-size: small;
+}
+
+SMALL{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;
+font-size: x-small;
+}
+
+PRE{
+font-family: Helvetica,sans-serif;
+color: #000000;
+text-decoration: none;
+font-size: small;
+}
+
+LI{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #32323A;
+text-decoration: none;
+font-size: xx-small;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right : 0px;
+margin-left : 0px;
+}
+
+UL{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #32323A;
+text-decoration: none;
+font-size: xx-small;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right : 15px;
+margin-left : 15px;
+}
+
+H1{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: #32323A;
+text-decoration: none;
+font-size: medium;
+}
+
+H3{
+font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+color: red;
+text-decoration: none;
+font-size: medium;
+}
